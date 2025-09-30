@@ -1,0 +1,39 @@
+1
+00:00:00,000 --> 00:00:10,000
+Welcome to the HeliosX Logistics Hub — where pharmaceutical excellence meets operational efficiency.
+
+2
+00:00:10,000 --> 00:00:20,000
+Every day, stock arrives from our pharmaceutical partners — carefully received and immediately processed into our secure facility.
+
+3
+00:00:20,000 --> 00:00:25,000
+Our dedicated Royal Mail elevated ramp ensures priority postal integration for high-volume dispatch.
+
+4
+00:00:25,000 --> 00:00:35,000
+Inside our climate-controlled facility, every product is tracked, stored, and maintained to pharmaceutical standards.
+
+5
+00:00:35,000 --> 00:00:40,000
+Three specialized packaging lines serve our key brands.
+
+6
+00:00:40,000 --> 00:00:50,000
+Dermatica — processed on a dedicated line with white and green branding for precise dermatology treatments.
+
+7
+00:00:50,000 --> 00:01:00,000
+MedExpress — prepared on a fast-throughput blue line for rapid nationwide dispatch.
+
+8
+00:01:00,000 --> 00:01:10,000
+ZipHealth — fulfilled on a dedicated digital-health line alongside MedExpress operations.
+
+9
+00:01:10,000 --> 00:01:20,000
+Completed orders move to our collections bays for nationwide delivery via partners and carriers.
+
+10
+00:01:20,000 --> 00:01:35,000
+HeliosX — powering pharmaceutical logistics from receipt to delivery. Excellence in every step. As part of the HeliosX Group, we’re building the future of digital healthcare — from online consultations to your doorstep. Trusted. Efficient. HeliosX.
